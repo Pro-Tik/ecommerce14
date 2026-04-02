@@ -1,0 +1,9 @@
+
+/vendor
+/node_modules
+.env
+*.zip
+*.rar
+*.gz
+*.sql
+storage/*.key
